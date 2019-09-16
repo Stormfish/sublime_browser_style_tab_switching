@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view_in_group" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view_in_group" }
+]
